@@ -1,0 +1,19 @@
+
+[
+  {
+    "route": "Red Line",
+    "stops": ["bennett", "omicron 1", "gnida", "delta 1", "alpha 1"]
+  },
+  {
+    "route": "Blue Line",
+    "stops": ["gnida", "pari chowk", "knowledge park", "sector 146"]
+  },
+  {
+    "route": "Green Line",
+    "stops": ["knowledge park", "sector 142", "gn expressway", "sector 146"]
+  },
+  {
+    "route": "Yellow Line",
+    "stops": ["alpha 1", "pari chowk", "gn expressway"]
+  }
+]

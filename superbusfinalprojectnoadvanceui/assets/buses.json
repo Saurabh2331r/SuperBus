@@ -1,0 +1,5 @@
+[
+  { "busId": "B1", "numberPlate": "DL01AB1234", "route": "Red Line" },
+  { "busId": "B2", "numberPlate": "DL01AB5678", "route": "Red Line" },
+  { "busId": "B3", "numberPlate": "DL02CD9999", "route": "Blue Line" }
+]
